@@ -1,4 +1,6 @@
 **AIRLINE DATABASE PROJECT**
+
+
 Developed a relational database system for managing airline operations using SQL. The project included designing entity-relationship (ER) diagrams, creating normalized tables, and implementing queries to handle flight scheduling, passenger bookings, cancellations, and staff management. Focused on data integrity, efficient retrieval, and user-friendly interaction through a basic front-end interface.
 ▪
 Developed a dynamic web application using Xampp, increasing user engagement by 15% through enhanced interface and efficient Database Management System (DBMS)integra.
