@@ -9,3 +9,5 @@ Developed a web application using Java and HTML, increasing user engagement by 1
 ▪
 Developed a comprehensive Database Management System (DBMS)that improved data retrieval speed by 5%,enhancing operational efficiency for over 20 users.
 Implemented HTML standards in project redesign, resulting in a increase in page load speed and boosting user engagement
+
+![PHP](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
